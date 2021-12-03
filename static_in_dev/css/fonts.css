@@ -1,0 +1,12 @@
+@font-face{
+    font-family: FuturaPT;
+    src: ('../fonts/FuturaPT-Medium.woff');
+}
+@font-face{
+    font-family: FuturaPTL;
+    src: ('../fonts/FuturaPT-Light.ttf');
+}
+@font-face{
+    font-family: FuturaPTWL;
+    src: ('../fonts/FuturaPT-Light.woff');
+}
